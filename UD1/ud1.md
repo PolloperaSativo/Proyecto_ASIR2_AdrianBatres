@@ -22,7 +22,7 @@ El análisis del entorno comprende dos dimensiones principales. Por un lado, el 
 
 ## 2. Selección de la empresa y contexto de trabajo
 
-Para el desarrollo del proyecto se ha elegido la empresa Sovena, ubicada en el municipio de Brenes (Sevilla). Se trata de una multinacional portuguesa dedicada a la producción y envasado de aceite, cuya planta en Brenes destaca por su volumen de actividad y su relevancia dentro del sector agroalimentario. La elección de esta empresa se fundamenta tanto en su importancia como en el conocimiento directo del entorno, ya que la experiencia laboral previa en sus instalaciones permite disponer de una visión real y cercana de su funcionamiento interno.
+Para el desarrollo del proyecto se ha elegido la empresa Sovena, ubicada en el municipio de Brenes (Sevilla). Se trata de una multinacional portuguesa dedicada a la producción y envasado de aceite, cuya planta en Brenes destaca por su volumen de actividad y su relevancia dentro del sector agroalimentario. La elección de esta empresa se fundamenta tanto en su importancia como en el conocimiento directo del entorno.
 
 Sovena cuenta con una estructura organizativa compleja que combina oficinas administrativas, zonas de producción automatizada, áreas de almacenamiento y depósitos de aceite, así como un sistema de control de accesos que regula la entrada y salida del personal. La plantilla supera el centenar de trabajadores, divididos entre empleados internos y personal contratado a través de empresas de trabajo temporal. La organización del trabajo se realiza mediante tres turnos rotativos (mañana, tarde y noche), lo que hace que la coordinación entre departamentos, especialmente RRHH, producción y ETT, sea un aspecto fundamental para el funcionamiento diario.
 
