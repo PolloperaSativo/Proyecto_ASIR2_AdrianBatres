@@ -19,7 +19,6 @@ En este contexto, el sector agroalimentario avanza hacia la adopción de tecnolo
 
 El análisis del entorno comprende dos dimensiones principales. Por un lado, el **macroentorno**, que incluye factores económicos, tecnológicos, legislativos, sociales y medioambientales que influyen en el funcionamiento del sector. Por otro lado, el **microentorno**, compuesto por elementos propios del sector: proveedores, competencia, regulación alimentaria y sanitaria, logística y la necesidad de maximizar la eficiencia operativa. Dentro de esta dinámica, los factores clave del sector son la mejora continua de procesos, el control exhaustivo de la calidad, la trazabilidad obligatoria, la gestión eficaz del personal y el cumplimiento de estrictas normativas.
 
-La estructura organizativa y operativa de Sovena —con líneas de producción, almacenes, oficinas, sistemas de control de acceso y trabajadores distribuidos en múltiples turnos— refleja fielmente los retos tecnológicos propios del sector. Este entorno permite identificar necesidades tecnológicas relacionadas con la gestión de personal, la coordinación de turnos, la seguridad informática, la integración de sistemas y la mejora de la infraestructura digital. En consecuencia, Sovena constituye un escenario especialmente adecuado para analizar oportunidades de modernización, evaluar la viabilidad de soluciones tecnológicas y plantear mejoras alineadas con las demandas actuales del sector agroalimentario.
 
 ## 2. Selección de la empresa y contexto de trabajo
 
